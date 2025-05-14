@@ -56,3 +56,25 @@ print("d:",d)
 ![438091189-4e1aea27-61fc-40e3-8f69-7c83009d3c48](https://github.com/user-attachments/assets/a212012f-c2e5-4a3d-b495-a0d30f57e96f)
 ## Result
 Thus,the Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is created successfully
+
+# Datatypes-Character Literal in Python
+
+## 🎯 Aim
+To write a Python program that prints the characters `'T'` and `'a'` using character literals.
+
+## 🧠 Algorithm
+1. Print the character `'T'`.
+2. Print the character `'a'`.
+
+## 🧾 Program
+~~~
+a='T'
+b='a'
+print(a)
+print(b)
+~~~
+## Output
+![438092306-46c885d6-3cb6-4006-b3be-08d97d86236d](https://github.com/user-attachments/assets/546ea7c7-1df7-4f57-bf6c-fcd481c25ae2)
+
+## Result
+Thus,the Python program that prints the characters 'T' and 'a' using character literals is created successfully.
