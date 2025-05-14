@@ -23,4 +23,4 @@ else:
 ![438046823-e5040a25-ef1a-45d9-9084-08589fabb85d](https://github.com/user-attachments/assets/2f4a4a5f-100b-4d89-8646-a77e6b04630a)
 
 ## Result
-Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully..
